@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HelloWorld:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40295280-5c68-4d33-b918-d79a5932d85a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qbV56ArciEPYbvl6fC82HmsnnO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="HelloWorldJar" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.HelloWorldJar">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exemple.helloworld.HelloWorld" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exemple.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldJar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/HelloWorld_jar/HelloWorld.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\mrclc\IdeaProjects\HelloWorld" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HelloWorld:jar" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="JAR Application.HelloWorldJar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40295280-5c68-4d33-b918-d79a5932d85a" name="Default Changelist" comment="" />
+      <created>1617348089983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617348089983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="327" y="92" key="#BuildArtifactsBeforeRunChooser" timestamp="1617349812488">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="327" y="92" key="#BuildArtifactsBeforeRunChooser/0.0.1093.574@0.0.1093.574" timestamp="1617349812488" />
+    <state x="2" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617349814496">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="2" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1093.574@0.0.1093.574" timestamp="1617349814496" />
+    <state x="278" y="71" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617349300907">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="278" y="71" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1093.574@0.0.1093.574" timestamp="1617349300907" />
+    <state x="327" y="42" key="FileChooserDialogImpl" timestamp="1617349799472">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="327" y="42" key="FileChooserDialogImpl/0.0.1093.574@0.0.1093.574" timestamp="1617349799472" />
+    <state width="1048" height="128" key="GridCell.Tab.0.bottom" timestamp="1617351223870">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1048" height="128" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1617351223870" />
+    <state width="1048" height="128" key="GridCell.Tab.0.center" timestamp="1617351223869">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1048" height="128" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1617351223869" />
+    <state width="1048" height="128" key="GridCell.Tab.0.left" timestamp="1617351223869">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1048" height="128" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1617351223869" />
+    <state width="1048" height="128" key="GridCell.Tab.0.right" timestamp="1617351223870">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1048" height="128" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1617351223870" />
+    <state x="27" y="0" key="SettingsEditor" timestamp="1617349470098">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="27" y="0" key="SettingsEditor/0.0.1093.574@0.0.1093.574" timestamp="1617349470098" />
+    <state x="204" y="124" width="672" height="677" key="run.anything.popup" timestamp="1617350399735">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="204" y="124" width="672" height="677" key="run.anything.popup/0.0.1093.574@0.0.1093.574" timestamp="1617350399735" />
+    <state x="209" y="-1" key="search.everywhere.popup" timestamp="1617348403455">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="209" y="-1" key="search.everywhere.popup/0.0.1093.574@0.0.1093.574" timestamp="1617348403455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/exemple/helloworld/HelloWorld.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
